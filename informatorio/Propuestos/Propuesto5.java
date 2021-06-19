@@ -97,7 +97,7 @@ public class Propuesto5 {
     public static void main(String[] args) throws IOException, ParseException {
 
         List<Emploee> emploees = new ArrayList<>();
-        String path = "D:/ESCRITORIO/INFORMATORIO 2020/JAVA/Libro1.txt";
+        String path = "Libro1.txt";
         try (BufferedReader br = new BufferedReader(new FileReader(path))) {
 
             String content = br.readLine();
