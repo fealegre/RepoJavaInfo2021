@@ -1,0 +1,5 @@
+carlos,argañaraz,20/01/1980,45678.08
+manuel,garcia,12/05/1982,46258
+ernesto,ortiz,17/08/1990,50000
+fernando,alegre,31/03/1973,52000
+pepin,gonzales,25/04/1974,40000
