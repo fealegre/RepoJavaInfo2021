@@ -54,9 +54,7 @@ public class Propuesto5 {
 
     public static class NameOrdenator implements Comparator<Emploee> {
         public int compare(Emploee e1, Emploee e2) {
-            // Si el apellido de p1 y el apellido de p2 no son comparativamente equivalentes,
-            // Compara p1 con p2 comparando sus apellidos.
-            // De lo contrario, compare p1 con p2 comparando sus nombres
+            
             if (e1.getLastName().compareTo(e2.getLastName()) != 0) {
                 return e1.getLastName().compareTo(e2.getLastName());
             } else {
