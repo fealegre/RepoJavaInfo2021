@@ -1,4 +1,4 @@
-package informatorio;
+package informatorio.Propuestos;
 
 import java.util.Scanner;
 import informatorio.LibUtil;
